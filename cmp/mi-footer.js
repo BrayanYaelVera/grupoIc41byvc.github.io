@@ -4,7 +4,7 @@ class MiFooter
     this.innerHTML = /* html */
       `<p>
         &copy; 2021
-       Cedillo Martínez Ana Gabriela
+       Vera de la Cruz Brayan Yael
       </p>`;
   }
 }
